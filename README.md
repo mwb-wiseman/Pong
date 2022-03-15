@@ -1,5 +1,7 @@
 ![Pong Title.png](https://github.com/mwb-wiseman/Pong/blob/main/GDD%20Images/Pong%20Title.png "Pong Title")
 
+# GAME DESIGN DOCUMENT
+
 ## Introduction
 
 This document outlines the plan for the development of a Pong clone. This project is being undertaken for technical learning purposes (C# language, Unity engine), while engaging with the original game's design to create a novel experience.
