@@ -1,4 +1,4 @@
-![[Pong Title.png]]
+![Pong Title.png](https://github.com/mwb-wiseman/Pong/blob/main/GDD%20Images/Pong%20Title.png "Pong Title")
 
 ## Introduction
 
@@ -39,7 +39,7 @@ _Main Menu_
 
 Buttons to start a game with 1 or 2 players, to look at the Controls, or to close the application.
 
-![[Pong Menu.png]]
+![Pong Menu.png](https://github.com/mwb-wiseman/Pong/blob/main/GDD%20Images/Pong%20Menu.png "Pong Menu")
 
 _In-Game_
 
@@ -49,7 +49,7 @@ If the ball hits the top or bottom boundary it will bounce. Each player scores i
 
 __Gameflow__
 
-![[Pong Gameflow.png]]
+![Pong Gameflow.png](https://github.com/mwb-wiseman/Pong/blob/main/GDD%20Images/Pong%20Gameflow.png "Pong Gameflow")
 
 __Victory Conditions__
 
@@ -61,9 +61,9 @@ __Number of Players__
 
 #### Art
 
-![[Pong Art 1.png]]
+![Pong Art 1.png](https://github.com/mwb-wiseman/Pong/blob/main/GDD%20Images/Pong%20Art%201.png "Pong Art 1")
 
-![[Pong Art 2.png]]
+![Pong Art 2.png](https://github.com/mwb-wiseman/Pong/blob/main/GDD%20Images/Pong%20Art%202.png "Pong Art 2")
 
 #### Technical Aspects
 
